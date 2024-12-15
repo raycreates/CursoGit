@@ -1,5 +1,7 @@
 body {
-    background-color: paleturquoise;
-    font-weight:bolder;
-    color: green;
+
+    background-color: blue;
+    font-weight: bold;
+    color: red;
+    font-size:18px;
 }
